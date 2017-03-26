@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+	margin: 0px;
+}
+
+#reloadLink {
+	color: #666;
+	position: absolute;
+	z-index: 1;
+	display: none;
+}
+
+#reloadLink:hover {
+	color: #600;
+}
+
+#reloadLink:active {
+	color: #060;
+}
